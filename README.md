@@ -5,6 +5,7 @@
 
 **Toolkit:** 
 - Python 3, numpy, pandas, matplotlib, seaborn, scipy, sklearn, xgboost, nltk, re, umap
+
 **Topics:**
 - Text (article) classification using the Reuters-21578 dataset
 - Text cleaning, tokenization, vectorization (tf-idf)
