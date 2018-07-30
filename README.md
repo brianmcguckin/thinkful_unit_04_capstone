@@ -1,7 +1,7 @@
 # Reuters-21578 Text Classification
 ## Unsupervised Learning Capstone for Thinkful Data Science Bootcamp
 
-[Jupyter notebook (python 3)](04_capstone_unsupervised_learning_final.ipynb)<br>
+[Jupyter notebook](04_capstone_unsupervised_learning_final.ipynb)<br>
 
 **Toolkit:** 
 - Python 3, numpy, pandas, matplotlib, seaborn, scipy, sklearn, xgboost, nltk, re, umap
